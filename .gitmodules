@@ -1,3 +1,6 @@
 [submodule "jeju-house"]
 	path = jeju-house
 	url = git@github.com:vietphan1995/jeju-house.git
+[submodule "bean-parking"]
+	path = bean-parking
+	url = git@github.com:vietphan1995/bean-parking.git
