@@ -10,3 +10,6 @@
 [submodule "bean-wallet"]
 	path = bean-wallet
 	url = git@github.com:vietphan1995/bean-wallet.git
+[submodule "p-charity"]
+	path = p-charity
+	url = git@github.com:vietphan1995/p-charity.git
