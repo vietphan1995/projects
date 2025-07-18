@@ -7,3 +7,6 @@
 [submodule "bean-order"]
 	path = bean-order
 	url = git@github.com:vietphan1995/bean-order.git
+[submodule "bean-wallet"]
+	path = bean-wallet
+	url = git@github.com:vietphan1995/bean-wallet.git
