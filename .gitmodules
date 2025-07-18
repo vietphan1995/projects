@@ -4,3 +4,6 @@
 [submodule "bean-parking"]
 	path = bean-parking
 	url = git@github.com:vietphan1995/bean-parking.git
+[submodule "bean-order"]
+	path = bean-order
+	url = git@github.com:vietphan1995/bean-order.git
