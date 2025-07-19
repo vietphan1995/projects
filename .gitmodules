@@ -16,3 +16,6 @@
 [submodule "e-dictionary"]
 	path = e-dictionary
 	url = git@github.com:vietphan1995/e-dictionary.git
+[submodule "underthesea"]
+	path = underthesea
+	url = git@github.com:vietphan1995/underthesea.git
