@@ -9,3 +9,5 @@
 [jeju-house](https://github.com/vietphan1995/jeju-house.git)
 
 [p-charity](https://github.com/vietphan1995/p-charity.git)
+
+[e-dictionary](https://github.com/vietphan1995/e-dictionary.git)
