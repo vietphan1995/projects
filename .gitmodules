@@ -22,9 +22,6 @@
 [submodule "oke"]
 	path = oke
 	url = git@github.com:vietphan1995/oke.git
-[submodule "braille"]
-	path = braille
-	url = git@github.com:vietphan1995/braille.git
 [submodule "braille-os"]
 	path = braille-os
 	url = git@github.com:vietphan1995/braille-os.git
