@@ -28,3 +28,6 @@
 [submodule "i-pedal"]
 	path = i-pedal
 	url = git@github.com:vietphan1995/i-pedal.git
+[submodule "avicci-light"]
+	path = avicci-light
+	url = git@github.com:vietphan1995/avicci-light.git
