@@ -34,3 +34,6 @@
 [submodule "car-ear"]
 	path = car-ear
 	url = git@github.com:vietphan1995/car-ear.git
+[submodule "shell-ground"]
+	path = shell-ground
+	url = git@github.com:vietphan1995/shell-ground.git
