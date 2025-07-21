@@ -19,3 +19,5 @@
 [braille-os](https://github.com/vietphan1995/braille-os.git)
 
 [i-pedal](https://github.com/vietphan1995/i-pedal.git)
+
+[avicci-light](https://github.com/vietphan1995/avicci-light.git)
