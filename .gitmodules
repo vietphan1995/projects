@@ -37,3 +37,6 @@
 [submodule "shell-ground"]
 	path = shell-ground
 	url = git@github.com:vietphan1995/shell-ground.git
+[submodule "scout-tv"]
+	path = scout-tv
+	url = git@github.com:vietphan1995/scout-tv.git
