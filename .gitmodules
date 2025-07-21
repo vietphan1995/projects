@@ -31,3 +31,6 @@
 [submodule "avicci-light"]
 	path = avicci-light
 	url = git@github.com:vietphan1995/avicci-light.git
+[submodule "car-ear"]
+	path = car-ear
+	url = git@github.com:vietphan1995/car-ear.git
