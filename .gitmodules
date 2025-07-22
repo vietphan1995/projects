@@ -43,3 +43,6 @@
 [submodule "beethoven-sheet"]
 	path = beethoven-sheet
 	url = git@github.com:vietphan1995/beethoven-sheet.git
+[submodule "b-sign"]
+	path = b-sign
+	url = git@github.com:vietphan1995/b-sign.git
