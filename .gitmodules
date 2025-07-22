@@ -40,3 +40,6 @@
 [submodule "scout-tv"]
 	path = scout-tv
 	url = git@github.com:vietphan1995/scout-tv.git
+[submodule "beethoven-sheet"]
+	path = beethoven-sheet
+	url = git@github.com:vietphan1995/beethoven-sheet.git
