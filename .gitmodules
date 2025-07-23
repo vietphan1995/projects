@@ -49,3 +49,6 @@
 [submodule "yinyang-number"]
 	path = yinyang-number
 	url = git@github.com:vietphan1995/yinyang-number.git
+[submodule "yinyang-property"]
+	path = yinyang-property
+	url = git@github.com:vietphan1995/yinyang-property.git
