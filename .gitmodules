@@ -58,3 +58,6 @@
 [submodule "trading-utilities"]
 	path = trading-utilities
 	url = git@github.com:vietphan1995/trading-utilities.git
+[submodule "shutdown"]
+	path = shutdown
+	url = git@github.com:vietphan1995/shutdown.git
