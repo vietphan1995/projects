@@ -61,3 +61,6 @@
 [submodule "shutdown"]
 	path = shutdown
 	url = git@github.com:vietphan1995/shutdown.git
+[submodule "fitable"]
+	path = fitable
+	url = git@github.com:vietphan1995/fitable.git
