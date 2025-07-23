@@ -46,3 +46,6 @@
 [submodule "b-sign"]
 	path = b-sign
 	url = git@github.com:vietphan1995/b-sign.git
+[submodule "yinyang-number"]
+	path = yinyang-number
+	url = git@github.com:vietphan1995/yinyang-number.git
