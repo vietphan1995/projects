@@ -67,3 +67,6 @@
 [submodule "tri-angle"]
 	path = tri-angle
 	url = git@github.com:vietphan1995/tri-angle.git
+[submodule "pushing-decor"]
+	path = pushing-decor
+	url = git@github.com:vietphan1995/pushing-decor.git
