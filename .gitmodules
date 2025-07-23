@@ -55,3 +55,6 @@
 [submodule "trade-pattern"]
 	path = trade-pattern
 	url = git@github.com:vietphan1995/trade-pattern.git
+[submodule "trading-utilities"]
+	path = trading-utilities
+	url = git@github.com:vietphan1995/trading-utilities.git
