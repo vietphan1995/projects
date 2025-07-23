@@ -52,3 +52,6 @@
 [submodule "yinyang-property"]
 	path = yinyang-property
 	url = git@github.com:vietphan1995/yinyang-property.git
+[submodule "trade-pattern"]
+	path = trade-pattern
+	url = git@github.com:vietphan1995/trade-pattern.git
