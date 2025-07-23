@@ -64,3 +64,6 @@
 [submodule "fitable"]
 	path = fitable
 	url = git@github.com:vietphan1995/fitable.git
+[submodule "tri-angle"]
+	path = tri-angle
+	url = git@github.com:vietphan1995/tri-angle.git
