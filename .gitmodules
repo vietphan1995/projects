@@ -73,3 +73,6 @@
 [submodule "warm-signal"]
 	path = warm-signal
 	url = git@github.com:vietphan1995/warm-signal.git
+[submodule "buy-me-hamburger"]
+	path = buy-me-hamburger
+	url = git@github.com:vietphan1995/buy-me-hamburger.git
