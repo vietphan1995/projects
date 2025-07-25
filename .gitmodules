@@ -82,3 +82,6 @@
 [submodule "game-station"]
 	path = game-station
 	url = git@github.com:vietphan1995/game-station.git
+[submodule "terms"]
+	path = terms
+	url = git@github.com:vietphan1995/terms.git
