@@ -76,3 +76,6 @@
 [submodule "buy-me-hamburger"]
 	path = buy-me-hamburger
 	url = git@github.com:vietphan1995/buy-me-hamburger.git
+[submodule "amazing"]
+	path = amazing
+	url = git@github.com:vietphan1995/amazing.git
