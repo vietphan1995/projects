@@ -79,3 +79,6 @@
 [submodule "amazing"]
 	path = amazing
 	url = git@github.com:vietphan1995/amazing.git
+[submodule "game-station"]
+	path = game-station
+	url = git@github.com:vietphan1995/game-station.git
