@@ -88,3 +88,6 @@
 [submodule "paragraph"]
 	path = paragraph
 	url = git@github.com:vietphan1995/paragraph.git
+[submodule "ed-sharing"]
+	path = ed-sharing
+	url = git@github.com:vietphan1995/ed-sharing.git
