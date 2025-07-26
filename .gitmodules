@@ -85,3 +85,6 @@
 [submodule "terms"]
 	path = terms
 	url = git@github.com:vietphan1995/terms.git
+[submodule "paragraph"]
+	path = paragraph
+	url = git@github.com:vietphan1995/paragraph.git
