@@ -100,3 +100,6 @@
 [submodule "undertaker"]
 	path = undertaker
 	url = git@github.com:vietphan1995/undertaker.git
+[submodule "mind-plus"]
+	path = mind-plus
+	url = git@github.com:vietphan1995/mind-plus.git
