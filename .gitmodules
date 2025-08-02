@@ -100,3 +100,6 @@
 [submodule "mind-plus"]
 	path = mind-plus
 	url = git@github.com:vietphan1995/mind-plus.git
+[submodule "sun-lock"]
+	path = sun-lock
+	url = git@github.com:vietphan1995/sun-lock.git
