@@ -103,3 +103,6 @@
 [submodule "sun-lock"]
 	path = sun-lock
 	url = git@github.com:vietphan1995/sun-lock.git
+[submodule "package-tree"]
+	path = package-tree
+	url = git@github.com:vietphan1995/package-tree.git
