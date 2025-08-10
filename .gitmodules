@@ -106,3 +106,6 @@
 [submodule "package-tree"]
 	path = package-tree
 	url = git@github.com:vietphan1995/package-tree.git
+[submodule "skate-lights"]
+	path = skate-lights
+	url = git@github.com:vietphan1995/skate-lights.git
