@@ -109,3 +109,6 @@
 [submodule "skate-lights"]
 	path = skate-lights
 	url = git@github.com:vietphan1995/skate-lights.git
+[submodule "schema-first"]
+	path = schema-first
+	url = git@github.com:vietphan1995/schema-first.git
