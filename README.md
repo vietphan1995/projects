@@ -81,3 +81,7 @@ Address: 9, Huynh Van Tao, Phuong 3, Thanh Pho Tan An, Tinh Long An, Viet Nam
 [package-tree](https://github.com/vietphan1995/package-tree.git)
 
 [skate-lights](https://github.com/vietphan1995/skate-lights.git)
+
+[schema-first](https://github.com/vietphan1995/schema-first.git)
+
+[Projects::ref](https://www.notion.so/Projects-ref-24c5e832d6ee8066813ffcfae35390dd?pvs=21)
