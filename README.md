@@ -4,9 +4,6 @@ Only commute through:
 
 Email: vietphan95@outlook.com
 
-Phone: 0987966864 - Viet Nam
-
-Address: 9, Huynh Van Tao, Phuong 3, Thanh Pho Tan An, Tinh Long An, Viet Nam
 
 [bean-order](https://github.com/vietphan1995/bean-order.git)
 
