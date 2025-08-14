@@ -84,4 +84,4 @@ Address: 9, Huynh Van Tao, Phuong 3, Thanh Pho Tan An, Tinh Long An, Viet Nam
 
 [schema-first](https://github.com/vietphan1995/schema-first.git)
 
-[giza](https://www.notion.so/giza-1ba5e832d6ee80e7892aec4d1af6dc51?pvs=21)
+[giza](https://github.com/vietphan1995/giza.git)
