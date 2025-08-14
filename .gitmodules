@@ -112,3 +112,6 @@
 [submodule "schema-first"]
 	path = schema-first
 	url = git@github.com:vietphan1995/schema-first.git
+[submodule "giza"]
+	path = giza
+	url = git@github.com:vietphan1995/giza.git
