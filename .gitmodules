@@ -118,3 +118,6 @@
 [submodule "graytooth"]
 	path = graytooth
 	url = git@github.com:vietphan1995/graytooth.git
+[submodule "graeytooth"]
+	path = graeytooth
+	url = git@github.com:vietphan1995/graeytooth.git
