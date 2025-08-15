@@ -82,4 +82,4 @@ Email: vietphan95@outlook.com
 
 [giza](https://github.com/vietphan1995/giza.git)
 
-[graytooth](https://github.com/vietphan1995/graytooth.git)
+[graeytooth](https://github.com/vietphan1995/graeytooth.git)
