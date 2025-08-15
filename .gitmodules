@@ -115,3 +115,6 @@
 [submodule "giza"]
 	path = giza
 	url = git@github.com:vietphan1995/giza.git
+[submodule "graytooth"]
+	path = graytooth
+	url = git@github.com:vietphan1995/graytooth.git
