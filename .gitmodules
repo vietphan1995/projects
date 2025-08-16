@@ -118,3 +118,6 @@
 [submodule "graeytooth"]
 	path = graeytooth
 	url = git@github.com:vietphan1995/graeytooth.git
+[submodule "good-shipping"]
+	path = good-shipping
+	url = git@github.com:vietphan1995/good-shipping.git
