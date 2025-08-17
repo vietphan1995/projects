@@ -124,3 +124,6 @@
 [submodule "avatar"]
 	path = avatar
 	url = git@github.com:vietphan1995/avatar.git
+[submodule "green-delivery"]
+	path = green-delivery
+	url = git@github.com:vietphan1995/green-delivery.git
