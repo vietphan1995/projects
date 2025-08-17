@@ -127,3 +127,6 @@
 [submodule "green-delivery"]
 	path = green-delivery
 	url = git@github.com:vietphan1995/green-delivery.git
+[submodule "git-key"]
+	path = git-key
+	url = git@github.com:vietphan1995/git-key.git
