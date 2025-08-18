@@ -133,3 +133,6 @@
 [submodule "this-is-me"]
 	path = this-is-me
 	url = git@github.com:vietphan1995/this-is-me.git
+[submodule "short-map"]
+	path = short-map
+	url = git@github.com:vietphan1995/short-map.git
