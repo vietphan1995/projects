@@ -136,3 +136,6 @@
 [submodule "short-map"]
 	path = short-map
 	url = git@github.com:vietphan1995/short-map.git
+[submodule "some-one-like-you"]
+	path = some-one-like-you
+	url = git@github.com:vietphan1995/some-one-like-you.git
