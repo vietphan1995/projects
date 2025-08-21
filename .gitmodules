@@ -139,3 +139,6 @@
 [submodule "some-one-like-you"]
 	path = some-one-like-you
 	url = git@github.com:vietphan1995/some-one-like-you.git
+[submodule "land-mark"]
+	path = land-mark
+	url = git@github.com:vietphan1995/land-mark.git
