@@ -142,3 +142,6 @@
 [submodule "land-mark"]
 	path = land-mark
 	url = git@github.com:vietphan1995/land-mark.git
+[submodule "windows-media-player"]
+	path = windows-media-player
+	url = git@github.com:vietphan1995/windows-media-player.git
