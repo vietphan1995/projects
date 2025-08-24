@@ -145,3 +145,6 @@
 [submodule "windows-media-player"]
 	path = windows-media-player
 	url = git@github.com:vietphan1995/windows-media-player.git
+[submodule "taylor-swift"]
+	path = taylor-swift
+	url = git@github.com:vietphan1995/taylor-swift.git
