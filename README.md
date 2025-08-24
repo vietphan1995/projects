@@ -99,3 +99,5 @@ Email: [vietphan95@outlook.com](mailto:vietphan95@outlook.com)
 [some-one-like-you](https://github.com/vietphan1995/some-one-like-you.git)
 
 [land-mark](https://github.com/vietphan1995/projects.git)
+
+[windows-media-player](https://github.com/vietphan1995/windows-media-player.git)
