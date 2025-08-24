@@ -101,3 +101,5 @@ Email: [vietphan95@outlook.com](mailto:vietphan95@outlook.com)
 [land-mark](https://github.com/vietphan1995/projects.git)
 
 [windows-media-player](https://github.com/vietphan1995/windows-media-player.git)
+
+[taylor-swift](https://github.com/vietphan1995/taylor-swift.git)
