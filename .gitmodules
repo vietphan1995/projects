@@ -154,3 +154,6 @@
 [submodule "athena"]
 	path = athena
 	url = git@github.com:vietphan1995/athena.git
+[submodule "trungvietgietnguoi"]
+	path = trungvietgietnguoi
+	url = git@github.com:vietphan1995/trungvietgietnguoi.git
