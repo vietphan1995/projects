@@ -157,3 +157,6 @@
 [submodule "trungvietgietnguoi"]
 	path = trungvietgietnguoi
 	url = git@github.com:vietphan1995/trungvietgietnguoi.git
+[submodule "lotto"]
+	path = lotto
+	url = git@github.com:vietphan1995/lotto.git
