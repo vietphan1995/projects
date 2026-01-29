@@ -160,3 +160,6 @@
 [submodule "lotto"]
 	path = lotto
 	url = git@github.com:vietphan1995/lotto.git
+[submodule "thing"]
+	path = thing
+	url = git@github.com:vietphan1995/thing.git
