@@ -110,4 +110,6 @@ Email: [vietphan95@outlook.com](mailto:vietphan95@outlook.com)
 
 [lotto](https://github.com/vietphan1995/lotto.git)
 
+[thing](https://github.com/vietphan1995/thing.git)
+
 [trungvietgietnguoi](https://github.com/vietphan1995/trungvietgietnguoi.git)
