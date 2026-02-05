@@ -166,3 +166,6 @@
 [submodule "i-view-port"]
 	path = i-view-port
 	url = git@github.com:vietphan1995/i-view-port.git
+[submodule "smart-jacks"]
+	path = smart-jacks
+	url = git@github.com:vietphan1995/smart-jacks.git
