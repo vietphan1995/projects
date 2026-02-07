@@ -116,4 +116,6 @@ Email: [vietphan95@outlook.com](mailto:vietphan95@outlook.com)
 
 [smart-jacks](https://github.com/vietphan1995/smart-jacks.git)
 
+[kalimba](https://github.com/vietphan1995/kalimba.git)
+
 [trungvietgietnguoi](https://github.com/vietphan1995/trungvietgietnguoi.git)
