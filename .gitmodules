@@ -169,3 +169,6 @@
 [submodule "smart-jacks"]
 	path = smart-jacks
 	url = git@github.com:vietphan1995/smart-jacks.git
+[submodule "kalimba"]
+	path = kalimba
+	url = git@github.com:vietphan1995/kalimba.git
